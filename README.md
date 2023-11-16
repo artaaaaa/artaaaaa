@@ -64,7 +64,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg](https://tenor.com/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530)https://tenor.com/view/menhera-chan-chibi-menhera-angry-anime-girl-gif-24076530" height="40" alt="storybook logo"  />
 </div>
 
 ###
